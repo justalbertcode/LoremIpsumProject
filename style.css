@@ -32,7 +32,8 @@ body{
   justify-content: center;
   align-items: center;
   font-family: Roboto, sans-serif;
-  background-color: #C8E6C9;
+  background-color: #000;
+  color: #fff;
 }
 
 .section-center {
